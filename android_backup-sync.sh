@@ -60,3 +60,4 @@ else
 		bash $SCRIPT
 		exit
 fi
+exit 0;
